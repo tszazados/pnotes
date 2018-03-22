@@ -1,3 +1,12 @@
+This is just a test project.
+
+My goa is a working App with Slim framework, Twig, Doctrine2 (for db), Pimple for DI, Jaxon for ajax.
+Package managers: Composer, NPM
+Debug package: Kint
+Testing packages: -
+
+.....................
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
